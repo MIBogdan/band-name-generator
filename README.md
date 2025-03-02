@@ -48,7 +48,7 @@ The **Band Name Generator** is a simple web application built with EJS, Node.js,
 - The development server will open automatically in your default browser.
 - **If it doesn't open automatically**,manually visit: http://localhost:3000 in your browser.
 
-4. **Terminate** the server:
+5. **Terminate** the server:
 - **On macOS/Linux:** Press `Control + C` in the terminal. 
 - **On Windows:** Press `Ctrl + C` in the Command Prompt or PowerShell. 
 ---
