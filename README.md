@@ -1,13 +1,10 @@
 # Band Name Generator
 
-
 [![Tech Stack](https://img.shields.io/badge/EJS%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Node.js-black?style=flat-square)](#)
-
-
-
 > A fun app that generates random band names with each click.
 
 ## Overview
+
 The **Band Name Generator** is a simple web application built with EJS, Node.js, Express, and CSS. It allows users to generate random band names by clicking the "Generate Name" button, which combines random adjectives and nouns to create unique and interesting names.
 
 ## Preview
@@ -20,14 +17,13 @@ The **Band Name Generator** is a simple web application built with EJS, Node.js,
 - **Random Name Generation:** Generates a new band name with each click.
 - **Dynamic UI with EJS:** Uses EJS templates for rendering dynamic content.
 - **Express.js Backend:** Handles requests and serves the application.
-- **Minimalist Design:** Simple and easy-to-use interface.
-
-
 
 ## Live Demo
+
 **Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/band-name-generator/)
 
 ## Local Setup
+
 1. **Clone** the repository:
    ```bash
    git clone https://github.com/MIBogdan/band-name-generator.git
@@ -54,6 +50,7 @@ The **Band Name Generator** is a simple web application built with EJS, Node.js,
 ---
 
 ## Author
+
 **Marius Bogdan**  
 [Personal portfolio](https://marius-bogdan.com/)
 
